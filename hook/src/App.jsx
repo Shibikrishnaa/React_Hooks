@@ -3,7 +3,8 @@ import React from 'react';
 // import Display from './Display';
 // import Toggle from './Toggle';
 // import Form from './Form';
-import Hooked from './Hooked';
+// import Hooked from './Hooked';
+import Hooked2 from './Hooked2';
 function App(){
   return(
     <>
@@ -11,7 +12,8 @@ function App(){
     {/* <Display/> */}
     {/* <Toggle/> */}
     {/* <Form/> */}
-    <Hooked/>
+    {/* <Hooked/> */}
+    <Hooked2/>
     </>
   )
 }

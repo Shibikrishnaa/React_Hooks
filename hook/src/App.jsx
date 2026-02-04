@@ -5,7 +5,8 @@ import React from 'react';
 // import Form from './Form';
 // import Hooked from './Hooked';
 // import Hooked2 from './Hooked2';
-import Posted from './Posted';
+// import Posted from './Posted';
+import Reference from './Reference';
 function App(){
   return(
     <>
@@ -15,7 +16,8 @@ function App(){
     {/* <Form/> */}
     {/* <Hooked/> */}
     {/* <Hooked2/> */}
-    <Posted/>
+    {/* <Posted/> */}
+    <Reference/>
     </>
   )
 }
